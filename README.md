@@ -1,0 +1,1 @@
+在 scripts/spl.mjs 进行了SPL token 的 mint 和 transfer
